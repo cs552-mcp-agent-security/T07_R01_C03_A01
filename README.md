@@ -1,3 +1,9 @@
+> **Fork notice (cs552-mcp-agent-security)**: This repository is a fork of
+> [kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar), maintained
+> for the CS552 GitHub MCP Injection Benchmark. The upstream LICENSE (MIT) is
+> preserved verbatim. No training-relevant code has been modified.
+
+---
 # Train CIFAR10 with PyTorch
 
 I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset.
